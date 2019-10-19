@@ -1,4 +1,4 @@
-package lib;
+package main.java.cheese_eater.lib;
 
 public class MaxCheeseEater {
 

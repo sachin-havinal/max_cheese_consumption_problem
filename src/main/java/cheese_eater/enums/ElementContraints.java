@@ -1,4 +1,4 @@
-package enums;
+package main.java.cheese_eater.enums;
 
 public enum ElementContraints {
     START(1),

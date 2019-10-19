@@ -1,7 +1,9 @@
+package main.java.cheese_eater;
+
 import java.util.Scanner;
 
-import utils.InputValidationUtility;
-import lib.MaxCheeseEater;
+import main.java.cheese_eater.utils.InputValidationUtility;
+import main.java.cheese_eater.lib.MaxCheeseEater;
 
 public class MaxCheeseEaterMain {
 

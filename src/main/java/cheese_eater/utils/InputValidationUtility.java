@@ -1,7 +1,7 @@
-package utils;
+package main.java.cheese_eater.utils;
 
-import enums.TestCaseConstraints;
-import enums.ElementContraints;
+import main.java.cheese_eater.enums.ElementContraints;
+import main.java.cheese_eater.enums.TestCaseConstraints;
 
 import java.util.StringTokenizer;
 
